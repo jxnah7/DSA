@@ -12,3 +12,10 @@ Both methods are straightforward, but using deque is generally preferred for sta
 remember:
   stack[0] is the bottom or first element
   stack[-1] is the top or last element
+
+
+USE CASES:
+  undo/redo features
+  moving back/forward through browser history
+  backtracking algorithms
+  calling functions (call stack)
