@@ -8,3 +8,7 @@ Peek: Get the top element without removing it (access the last element).
 
 
 Both methods are straightforward, but using deque is generally preferred for stacks because it provides O(1) time complexity for append and pop operations. Choose the method that best suits your needs!
+
+remember:
+  stack[0] is the bottom or first element
+  stack[-1] is the top or last element

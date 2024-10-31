@@ -17,5 +17,5 @@ print("Popped element:", top_element)
 print("Stack after popping:", stack)
 
 # Peek at the top element without removing it
-top_element = stack[-1] if stack else None
+top_element = stack[-1] if stack else None  #[-1] in python refers to top of stack, if stack else none is a safety check to ensure the stack isnt empty
 print("Top element:", top_element)
