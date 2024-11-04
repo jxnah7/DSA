@@ -12,3 +12,7 @@ if you init a deque() function, and use append/pop, that is the behaviour of a s
 if you init a deque() function, and use append/popleft, that is the behaviour of a queue.
 
 popleft() removes the element in the very front of the queue.
+
+
+
+the syntax is basic, sometimes in larger programs wrappers might be used to make readability better
