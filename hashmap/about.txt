@@ -1,4 +1,4 @@
-#learning hasmaps
+#learning hashmaps
   #hashmaps or dictionaries in python hold information
     #called values and pair them up with unique identifiers called keys
 #used for readability and search in O(1)
